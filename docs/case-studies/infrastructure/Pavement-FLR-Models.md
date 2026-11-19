@@ -3,7 +3,7 @@
 **Contributor:** Federal Highway Administration (FHWA)  
 **Primary Domain:** Infrastructure Inspection & NDE  
 **Date Published:** 2026-08-18  
-**Repository Link:** [View Code](https://github.com/TFHRC-AI-CODE/AI-CODE/tree/main/AI%20Applications/Office%20of%20Infrastructure%20Research%20and%20Development/Pavement-FLR-Models) 
+**Repository Link:** [View Code](https://github.com/TFHRC-SI-CODE/SI-CODE/tree/main/SI%20Applications/Office%20of%20Infrastructure%20Research%20and%20Development/Pavement-FLR-Models) 
 
 Overview
 --------

@@ -1,1 +1,1 @@
-We will store AI case studies in this folder.
+We will store SI case studies in this folder.

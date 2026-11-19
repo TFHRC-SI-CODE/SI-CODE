@@ -5,7 +5,7 @@ We welcome contributions from researchers, State DOTs, universities, technology 
 ---
 
 ## Contribution Categories
-* AI Models
+* SI Models
 * Source Code
 * Datasets
 * Algorithms
@@ -16,7 +16,7 @@ We welcome contributions from researchers, State DOTs, universities, technology 
 
 ## Step-by-Step Submission Process
 
-1. **Fork the Repository:** Create a fork of `TFHRC-AI-CODE/AI-CODE` on GitHub.
+1. **Fork the Repository:** Create a fork of `TFHRC-SI-CODE/SI-CODE` on GitHub.
 2. **Create Your Page:** Copy `docs/templates/case-study-template.md` into the appropriate domain directory inside `docs/case-studies/` (e.g., `docs/case-studies/infrastructure/your-case-study.md`).
 3. **Fill in Details:** Complete all sections of the template with details on your dataset, code, models, and lessons learned.
 4. **Update `mkdocs.yml`:** Add your new Markdown file path under the `nav:` section in `mkdocs.yml`.

@@ -1,6 +1,6 @@
-# Artificial Intelligence Collaborative Open Development Environment (AI-CODE)
+# Super Intelligence Collaborative Open Development Environment (SI-CODE)
 
-Welcome to the **CODE**, a central repository for transportation-related artificial intelligence and machine learning case studies, pre-trained models, and field-tested implementations.
+Welcome to the **CODE**, a central repository for transportation-related super intelligence and machine learning case studies, pre-trained models, and field-tested implementations.
 
 ---
 
@@ -14,14 +14,14 @@ Welcome to the **CODE**, a central repository for transportation-related artific
 
 ## Repository Resources
 
-* **[Contribution Guide](contribution-guide.md):** Guidelines for formatting, testing, and submitting new AI case studies to this catalog.
+* **[Contribution Guide](contribution-guide.md):** Guidelines for formatting, testing, and submitting new SI case studies to this catalog.
 * **[Case Study Template](case-study-template.md):** Standardized Markdown template required for all case study submissions.
 
 ---
 
 ## How to Contribute
 
-To add a new AI model or field demonstration to this repository:
+To add a new SI model or field demonstration to this repository:
 
 1. Copy the `docs/templates/case-study-template.md` format.
 2. Add your `.md` file under the appropriate domain folder inside `docs/case-studies/`.

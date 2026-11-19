@@ -8,13 +8,13 @@
 ---
 
 ## 1. Executive Summary
-Brief overview of the transportation challenge and how this AI solution addresses it.
+Brief overview of the transportation challenge and how this SI solution addresses it.
 
 ---
 
 ## 2. Problem Statement & Objectives
 * **Challenge:** Description of existing manual or legacy process.
-* **Objective:** Goal of the AI application.
+* **Objective:** Goal of the SI application.
 
 ---
 

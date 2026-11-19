@@ -1,5 +1,5 @@
 site_name: CODE User Guide
-site_url: https://tfhrc-ai-code.github.io/AI-CODE/
+site_url: https://tfhrc-ai-code.github.io/SI-CODE/
 edit_uri: ""
 
 theme:
@@ -12,7 +12,7 @@ nav:
   - CASE STUDIES:
       - Infrastructure:
           - Deep Learning for Impact Echo: case-studies/infrastructure/deep-learning-for-impact-echo.md
-          - Explainable AI: case-studies/infrastructure/explainable-AI-for-impact-echo.md
+          - Explainable SI: case-studies/infrastructure/explainable-SI-for-impact-echo.md
           - Pavement Fatigue Life Ratio: case-studies/infrastructure/Pavement-FLR-Models.md
       - Safety: case-studies/safety/placeholder.md
   - CONTRIBUTING:
